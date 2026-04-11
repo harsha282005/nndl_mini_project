@@ -1,0 +1,16 @@
+1. Start Backend (FastAPI)
+
+👉 Open Terminal 1 (IMPORTANT)
+
+cd "C:\Users\B. Sai Subrahmanyam\Desktop\NNdl_mini_project"
+.\venv\Scripts\activate
+uvicorn api:app --reload
+
+💻 2. Start Frontend (React)
+
+👉 Open Terminal 2 (NEW terminal)
+
+cd "C:\Users\B. Sai Subrahmanyam\Desktop\NNdl_mini_project\frontend"
+npm install
+npm run dev
+
