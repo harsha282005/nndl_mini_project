@@ -3,7 +3,8 @@ __pycache__/
 *.pyc
 .env
 datasets/
-models/*.h5
-models/*.keras
+# Allow model files to be committed for deployment
+# models/*.h5
+# models/*.keras
 outputs/
 .ipynb_checkpoints/
